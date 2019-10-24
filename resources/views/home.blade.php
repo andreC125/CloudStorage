@@ -17,6 +17,9 @@
                     You are logged in!
                 </div>
             </div>
+            <div class="links">
+                    <a href="files.blade.php">Files</a>
+                </div>
         </div>
     </div>
 </div>
