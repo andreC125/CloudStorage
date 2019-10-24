@@ -19,6 +19,7 @@
             </div>
             <div class="links">
                     <a href="files.blade.php">Files</a>
+                    <a href="users.blade.php">Users</a>
                 </div>
         </div>
     </div>
